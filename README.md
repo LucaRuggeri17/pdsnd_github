@@ -1,5 +1,6 @@
 ### Date created
 May 2020
+June 2020 (2nd draft)
  
 ### Explore US Bikeshare date
 
@@ -18,4 +19,7 @@ washington.csv
 ### Credits
 https://vickysuworld.blogspot.com/2017/10/2016-us-bike-share-activity-snapshot.html
 https://towardsdatascience.com/exploring-toronto-bike-share-ridership-using-python-3dc87d35cb62
+https://realpython.com/pandas-python-explore-dataset/
 
+The python file has been revised by Udacity
+the project had a positive feedback
